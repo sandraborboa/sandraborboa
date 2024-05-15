@@ -1,4 +1,30 @@
-### Hi there 👋
+## Hi there! ✌️ I'm Sandra.
+
+Welcome to my GitHub!
+
+I'm a dedicated and enthusiastic architect and aspiring Software Engineer, currently studying for my degree and transitioning into the world of development. My tech journey has been fueled by a passion for design, problem-solving and neverending curiosity.
+
+### About Me 💭
+
+- 🏛️ **Background:** My experience as an architect has equipped me with skills such as creative thinking, attention to detail and communication.
+- 🌱 **Learning:** I'm always exploring new technologies and methodologies to expand my skill set.
+- 👥 **Teamwork:** I'm at my best when collaborating with diverse teams spanning various disciplines.
+- 🧩 **Problem Solver:** I love the challenge of complex problems and the process of finding innovative solutions.
+- 🖼️ **Design Enthusiast:** I have a keen eye for design and enjoy creating intuitive, user-friendly interfaces.
+- 🔍 **Curious:** My curiosity drives me. I'm constantly seeking out new knowledge and experiences.
+
+### What I'm Working On 🌱
+
+- Building interactive and responsive web applications using modern front-end technologies.
+- Enhancing my skills in JavaScript, HTML, CSS, and various frameworks and libraries.
+
+### Let's Connect ✨
+
+Reach out to me if you'd like to collaborate or just chat about tech, design, the process of switching careers or anything in between. My profile is a work in progress but keep an eye out for my future repositories. 
+
+
+
+
 
 <!--
 **sandraborboa/sandraborboa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
