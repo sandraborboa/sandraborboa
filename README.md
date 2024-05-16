@@ -22,7 +22,7 @@ I'm a dedicated and enthusiastic architect and aspiring Software Engineer, curre
 
 ### Let's Connect ✨
 
-Reach out to me if you'd like to collaborate or just chat about tech, design, the process of switching careers or anything in between. My profile is a work in progress but keep an eye out for my future repositories. 
+[Reach out to me](www.linkedin.com/in/sandra-borboa) if you'd like to collaborate or just chat about tech, design, the process of switching careers or anything in between. My profile is a work in progress but keep an eye out for my future repositories. 
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=for-the-badge&logo=adobe illustrator&logoColor=white" /> <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power BI&logoColor=white" />
 
