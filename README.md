@@ -1,5 +1,7 @@
 ## Hi there! ✌️ I'm Sandra.
 
+![banner](readmebanner.png)
+
 Welcome to my GitHub!
 
 I'm a dedicated and enthusiastic architect and aspiring Software Engineer, currently studying for my degree and transitioning into the world of development. My tech journey has been fueled by a passion for design, problem-solving and neverending curiosity.
